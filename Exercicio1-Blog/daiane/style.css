@@ -1,3 +1,29 @@
 body{
-	background: red;
+	background: url(img/htmlBG.png) repeat #f8f3ef;
+	font-family: Lato, Arial , Sans-serif;
+	font-size: 10pt;
+	font-color: #5c636c;
+}
+
+.wrapper{
+
+}
+
+.mainHeader{
+	width: 1200
+	height:160
+}
+
+.mainHeader h1{
+	font-size: 30pt;
+	float: left;
+}
+.mainHeader h3{
+	font-size: 14pt;
+	float: right;
+}
+
+.mainHeader nav{
+	font-size: 12pt;
+	
 }
